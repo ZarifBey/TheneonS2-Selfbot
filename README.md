@@ -12,3 +12,7 @@ Yapmanız gerekenler:
 4- Terminale gelerek screen -R helper yazarak arka planda botu çalışır hale getiriniz.
 5- cd dosya adı/python3 helper.py adımlarını kullanınız.
 6- Sunucuza sistem dosyalarını yüklemediyseniz aşağıdaki komutları terminale yapıştırmanız yeterli. Tek komutla herşey yapılabilir.
+
+
+7: Sunucu kurulum kodları:
+
