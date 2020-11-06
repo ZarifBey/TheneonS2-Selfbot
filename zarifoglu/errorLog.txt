@@ -1,0 +1,16 @@
+
+[Jumat, 09 - Oktober - 2020 | 22:22:05] Invalid mids
+[Sabtu, 10 - Oktober - 2020 | 13:42:59] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Sabtu, 10 - Oktober - 2020 | 13:43:06] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Minggu, 11 - Oktober - 2020 | 18:01:31] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Minggu, 11 - Oktober - 2020 | 23:38:28] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Senin, 12 - Oktober - 2020 | 16:32:30] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Senin, 12 - Oktober - 2020 | 17:08:35] invalid literal for int() with base 10: "@↬ᴋʟᴇᴏᴘᴀᴛʀᴀ'❁"
+[Senin, 12 - Oktober - 2020 | 17:12:08] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Senin, 12 - Oktober - 2020 | 19:42:11] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Senin, 12 - Oktober - 2020 | 19:53:30] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Senin, 12 - Oktober - 2020 | 19:53:33] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Senin, 12 - Oktober - 2020 | 19:53:46] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Selasa, 13 - Oktober - 2020 | 04:49:05] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Selasa, 13 - Oktober - 2020 | 04:49:36] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
+[Rabu, 14 - Oktober - 2020 | 04:48:19] LiffException(code=4, message='liffId = 1597127494-QDP2OlYl', payload=None)
